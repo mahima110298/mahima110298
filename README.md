@@ -10,14 +10,11 @@
 
 I'm a Forward Deployed Engineer with 6+ years of industry experience at **Microsoft** and **Salesforce**, shipping production systems for billions of users, plus hands-on agentic AI work. I'm comfortable owning customer outcomes end-to-end — mapping messy enterprise processes, integrating with existing systems, and standing up reliable, evaluated LLM/agent workflows (tools, planning, state/memory).
 
-Currently the Founding Forward Deployed Engineer at **Aithon**, taking agentic AI from pilot to daily use for **6 enterprise customers**. Before that, I was the sole FDE at a stealth startup, deploying **AI phone agents** for healthcare, insurance, and home-services enterprises and raising call resolution from **62% to 85%**. I'm completing my **M.S. in Computer Science** at California State University, Long Beach (GPA: 4.00, graduating Dec 2026), where as a Graduate Research Assistant I built VOICE-GuardEval, a severity-aware evaluation framework for voice agents.
+Most recently, I was the sole FDE at a stealth startup, deploying **AI phone agents** for healthcare, insurance, and home-services enterprises and raising call resolution from **62% to 85%**. I'm completing my **M.S. in Computer Science** at California State University, Long Beach (GPA: 4.00, graduating Dec 2026), where as a Graduate Research Assistant I built VOICE-GuardEval, a severity-aware evaluation framework for voice agents.
 
 I'm passionate about building AI systems that actually work in production — robust, explainable, and scalable. Outside of work, I enjoy competitive programming and following research at the intersection of systems and machine learning.
 
 ## 💼 Experience
-
-**Founding Forward Deployed Engineer** — Aithon Tech Inc · *Aug 2026 – Present*
-Owned kickoffs, trainings, and deployments for 6 enterprise customers (Finastra, USAN, AutoRABIT, Aivar, Liminal, Wizr). Redesigned core workflows from user research, lifting weekly active users 50% and cutting time-to-first-value from 3 weeks to 2 days. Built lead scoring on 4 metrics: product fit, timing, budget, and competitive intel.
 
 **Forward Deployed Engineer** — Stealth Startup · *May 2026 – Aug 2026*
 Sole FDE deploying AI phone agents for healthcare, insurance, and home-services enterprises, live in under 3 weeks. Designed call flows, prompts, and function calls (booking, transfers, lookups); integrated agents with CRMs, EHRs, calendars, and telephony (Twilio, SIP) via webhooks, cutting latency to under 800 ms. Built simulated-call test suites and post-call analysis, raising call resolution from 62% to 85%.
